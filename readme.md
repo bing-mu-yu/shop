@@ -55,4 +55,30 @@ Use `code` in your Markdown file.
     
     #inlcude
 
+## 分割线
 
+Try to put a blank line before...
+
+---
+
+...and after a horizontal rule.
+
+## 链接
+
+这是一个链接[Markdwn语法](https://markdown.com.cn)
+
+### 网址和Email地址
+<3041176811@qq.com>
+<https://markdown.com.cn>
+
+### 格式化的链接
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](https://eff.org).
+
+## 图片
+
+    ![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+
+### 图片链接
+    [![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
