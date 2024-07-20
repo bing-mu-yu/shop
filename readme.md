@@ -37,10 +37,13 @@ I think I'll use it to format all of my documents from now on.
 
 ### 代码块
 
-        #include<stdlib.h>
-        int main(){
-            return 0;
-        }
+
+在列表中时，需要用两个制表符
+
+    #include<stdlib.h>
+    int main(){
+        return 0;
+    }
 
 1.  Open the file containing the Linux mascot.
 2.  Marvel at its beauty.
@@ -49,3 +52,7 @@ I think I'll use it to format all of my documents from now on.
 
 ## 代码语法
 Use `code` in your Markdown file.
+    
+    #inlcude
+
+
